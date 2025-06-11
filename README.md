@@ -1,6 +1,6 @@
 # Homework 05: Even more APIs
 
-This repository contains two Jupyter notebooks completed as part of the [LEDE Program](https://ledeprogram.com{target=_blank}) at Columbia University.
+This repository contains two Jupyter notebooks completed as part of the [LEDE Program](https://ledeprogram.com) at Columbia University.
 
 ## Part One: Geocoding with APIs
 
@@ -15,7 +15,7 @@ This notebook demonstrates how to geocode physical addresses using Python and ex
 
 Notebook: `homework-05-part2.ipynb`
 
-After using WeatherAPI in the previous assignment, this time had to choose between two alternatives: [Tomorrow.io](https://www.tomorrow.io/weather-api/{target=_blank}) and [Open-Meteo](https://open-meteo.com/{target=_blank}). I chose Tomorrow.io and explained why in the notebook.
+After using WeatherAPI in the previous assignment, this time had to choose between two alternatives: [Tomorrow.io](https://www.tomorrow.io/weather-api/}) and [Open-Meteo](https://open-meteo.com/). I chose Tomorrow.io and explained why in the notebook.
 
 The tasks included:
 - Requesting current weather and 3-day forecasts
